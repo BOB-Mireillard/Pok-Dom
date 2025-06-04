@@ -2,6 +2,8 @@
 
 Pokémon idea generator
 
+[ITCH.IO PAGE](https://bob-mireillard.itch.io/pokedom)
+
 Pokédom is a little software that I made for a friend that help you if you'd like to create
 a Pokémon but don't have an idea about where to start.
 
